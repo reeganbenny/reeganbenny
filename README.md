@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reegan Benny</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from Earth</h3> 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 
 - 🔭 I’m currently working as a freelancer [on Upwork](https://www.upwork.com/freelancers/~0127164b9db62ac8ee?viewMode=1)
 
-- 🌱 I’m currently learning **Go,React.js**
+- 🌱 I’m currently learning **React.js, Node.js, Go**
 
 - 💬 Ask me about **Java, JavaScript**
 
