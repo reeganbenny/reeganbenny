@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working as a freelancer [on Upwork](https://www.upwork.com/freelancers/~0127164b9db62ac8ee?viewMode=1)
 
-- 🌱 I’m currently learning **React.js, Go**
+- 🌱 I’m currently learning **React Native, Go, AI/ML**
 
-- 💬 Ask me about **Java, JavaScript, Node.js**
+- 💬 Ask me about **Python, JavaScript, Node.js, React.js,**
 
 - 📫 How to reach me **reeganbenny@gmail.com**
 
